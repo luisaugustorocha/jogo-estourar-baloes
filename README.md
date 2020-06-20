@@ -1,0 +1,1 @@
+Projeto iniciado para aplicar e testar alguns conhecimentos de Javascript.
